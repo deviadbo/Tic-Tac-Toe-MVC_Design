@@ -10,7 +10,7 @@ Tic-Tac-Toe game. The game is developed in C++ OPP, and implemented in Model–v
 
 
 #### Educated Player
-<p align="center"><img src=Media/1.png></p>
+<p align="center"><img src="Media/1.png"></p>
 The Educated Player
 implemented in the following way that in each turn, he first defends himself, from the opponent's victory, if the opponent is not in the advantage, then the Educated Player starts the attack and looks for where he can approach the victory.
 
@@ -18,7 +18,7 @@ If both modes are irrelevant, then a random slot is selected.
 
 
 #### Random  Player
-<p align="center"><img src=Media/222.png height="242"/></p>
+<p align="center"><img src="Media/222.png" height="242"/></p>
 Choosing an uneducated random slot.
 
-[Class Diagram](UML%CALSS%DIAGRAM.pdf)
+[Class Diagram](https://github.com/deviadbo/Tic-Tac-Toe-MVC_Design/blob/master/UML%20CALSS%20DIAGRAM.pdf)
